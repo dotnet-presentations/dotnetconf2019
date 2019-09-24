@@ -3,13 +3,13 @@
 ## September 23 - 25, 2019 [www.dotnetconf.net](https://www.dotnetconf.net)
 .NET Conf is a free, 3 day virtual developer event co-organized by the .NET community and Microsoft. This year, .NET Core 3.0 launches at .NET Conf! This repo contains creative and technical content for running a .NET Conf 2019 local event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
 
-If you are intested in running a local event or watch party between Sept 23 and Oct 31, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/dotnetconf2019](https://www.surveymonkey.com/r/dotnetconf2019). We will advertize your event on [www.dotnetconf.net/local-events](https://www.dotnetconf.net/local-events) and send you some fun SWAG while supplies last.
+If you are intested in running a local event or watch party between Sept 23 and Oct 31, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/dotnetconf2019](https://www.surveymonkey.com/r/dotnetconf2019). We will advertize your event on [www.dotnetconf.net/local-events](https://www.dotnetconf.net/local-events).
 
 # Event Guidelines
 You are free to organize a watch party to view the online broadcast live and/or organize a presentation, workshop, or hack-a-thon anytime until Oct 31. The technical content needs to be .NET related and preferably on the latest releases. Topics can include but aren't limited to: .NET Core, ASP.NET Core, Xamarin, Unity, UWP, Visual Studio family, C#/F#/Visual Basic, .NET cloud development with Azure, Machine Learning & AI with .NET, .NET open source projects.  
 
 # Technical Content
-Session decks can be found in the `Technical` folder as they become available. Also check out more .NET presentations and workshops here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
+Session decks can be found in the `Technical` folder as they become available. All sessions are also on-demand after the show on the [Visual Studio YouTube channel](https://www.youtube.com/playlist?list=PLReL099Y5nRd04p81Q7p5TtyjCrj9tz1t). Also check out more .NET presentations and workshops here: [https://github.com/dotnet-presentations/home](https://github.com/dotnet-presentations/home)
 
 
 # Creative & Social Copy 
