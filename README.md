@@ -1,7 +1,7 @@
 # .NET Conf 2019 "Event-in-a-Box"
 [![](Creative/EventInfo/dotNETConf_800x266_email_plain.png)](https://www.dotnetconf.net)
 ## September 23 - 25, 2019 [www.dotnetconf.net](https://www.dotnetconf.net)
-.NET Conf is a free, 3 day virtual developer event co-organized by the .NET community and Microsoft. This year, .NET Core 3.0 launches at .NET Conf! This repo contains creative and technical content for running a .NET Conf 2019 local event or watch party in your community as well as information on how to syndicate the broadcast on your own sites. 
+.NET Conf is a free, 3 day virtual developer event co-organized by the .NET community and Microsoft. This year, .NET Core 3.0 launched at .NET Conf! This repo contains creative and technical content for running a .NET Conf 2019 local event or watch party in your community. Thank you for your support!
 
 If you are intested in running a local event or watch party between Sept 23 and Oct 31, please make sure you let us know by filling out this survey: [www.surveymonkey.com/r/dotnetconf2019](https://www.surveymonkey.com/r/dotnetconf2019). We will advertize your event on [www.dotnetconf.net/local-events](https://www.dotnetconf.net/local-events).
 
