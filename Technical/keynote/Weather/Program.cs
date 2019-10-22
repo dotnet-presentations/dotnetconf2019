@@ -52,6 +52,11 @@ namespace Weather
                              {
                                  listenOptions.Protocols = HttpProtocols.Http1;
                              });
+                             options.Listen(IPAddress.Any, 5001, listenOptions =>
+                             {
+                                 listenOptions.UseHttps();
+                                 listenOptions.Protocols = HttpProtocols.Http1AndHttp2;
+                             });
                          }
                      });
                 });
